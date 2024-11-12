@@ -74,4 +74,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ## Licença
 
-Este projeto está licenciado sob a [GNU GPLv3](LICENSE).
+Este projeto está licenciado sob a [GNU GPLv3](./license).
