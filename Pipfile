@@ -9,6 +9,7 @@ ipykernel = "*"
 requests = "*"
 plotly = "*"
 scikit-learn = "*"
+seaborn = "*"
 
 [dev-packages]
 

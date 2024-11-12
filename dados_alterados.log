@@ -1,0 +1,224 @@
+2024-11-12 15:55:28,912 - INFO - Logger resetado e iniciado novamente.
+2024-11-12 15:55:28,912 - INFO - Iniciando o processamento dos arquivos CSV.
+2024-11-12 15:55:28,913 - INFO - Processando arquivo: BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2000-01-01 - Origem: 2000-01-03
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2000-04-01 - Origem: 2000-04-03
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2000-07-01 - Origem: 2000-07-03
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2000-10-01 - Origem: 2000-10-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2001-01-01 - Origem: 2001-01-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2001-04-01 - Origem: 2001-04-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2001-07-01 - Origem: 2001-07-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2002-01-01 - Origem: 2002-01-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2003-01-01 - Origem: 2003-01-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2004-01-01 - Origem: 2004-01-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2005-01-01 - Origem: 2005-01-03
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2005-10-01 - Origem: 2005-10-03
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2006-01-01 - Origem: 2006-01-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2006-04-01 - Origem: 2006-04-03
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2006-07-01 - Origem: 2006-07-03
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2006-10-01 - Origem: 2006-10-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2007-01-01 - Origem: 2007-01-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2007-04-01 - Origem: 2007-04-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2007-07-01 - Origem: 2007-07-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2008-01-01 - Origem: 2008-01-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2009-01-01 - Origem: 2009-01-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2010-01-01 - Origem: 2010-01-04
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2011-01-01 - Origem: 2011-01-03
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2011-10-01 - Origem: 2011-10-03
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2012-01-01 - Origem: 2012-01-02
+2024-11-12 15:55:28,995 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2012-04-01 - Origem: 2012-04-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2012-07-01 - Origem: 2012-07-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2013-01-01 - Origem: 2013-01-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2014-01-01 - Origem: 2014-01-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2015-01-01 - Origem: 2015-01-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2016-01-01 - Origem: 2016-01-04
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2016-10-01 - Origem: 2016-10-03
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2017-01-01 - Origem: 2017-01-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2017-04-01 - Origem: 2017-04-03
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2017-07-01 - Origem: 2017-07-03
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2017-10-01 - Origem: 2017-10-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2018-01-01 - Origem: 2018-01-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2018-04-01 - Origem: 2018-04-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2018-07-01 - Origem: 2018-07-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2019-01-01 - Origem: 2019-01-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2020-01-01 - Origem: 2020-01-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2021-01-01 - Origem: 2021-01-04
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2022-01-01 - Origem: 2022-01-03
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2022-10-01 - Origem: 2022-10-03
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2023-01-01 - Origem: 2023-01-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2023-04-01 - Origem: 2023-04-03
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2023-07-01 - Origem: 2023-07-03
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2023-10-01 - Origem: 2023-10-02
+2024-11-12 15:55:28,996 - INFO - BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv - Data alterada: 2024-01-01 - Origem: 2024-01-02
+2024-11-12 15:55:28,996 - INFO - Arquivo processado com sucesso: BCB Captação líquida diária de depósitos de poupança - SBPE - COD240 - 20241112144804.csv
+2024-11-12 15:55:28,996 - INFO - Processando arquivo: BCB Concessões de crédito PF - COD20662 - 20241112144803.csv
+2024-11-12 15:55:29,002 - INFO - BCB Concessões de crédito PF - COD20662 - 20241112144803.csv - Data alterada: 2011-01-01 - Origem: 2011-03-01
+2024-11-12 15:55:29,002 - INFO - Arquivo processado com sucesso: BCB Concessões de crédito PF - COD20662 - 20241112144803.csv
+2024-11-12 15:55:29,002 - INFO - Processando arquivo: BCB Inadimplência da carteira de crédito PF - COD21084 - 20241112144803.csv
+2024-11-12 15:55:29,007 - INFO - BCB Inadimplência da carteira de crédito PF - COD21084 - 20241112144803.csv - Data alterada: 2011-01-01 - Origem: 2011-03-01
+2024-11-12 15:55:29,007 - INFO - Arquivo processado com sucesso: BCB Inadimplência da carteira de crédito PF - COD21084 - 20241112144803.csv
+2024-11-12 15:55:29,007 - INFO - Processando arquivo: BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv
+2024-11-12 15:55:29,079 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2000-01-01 - Origem: 2000-01-03
+2024-11-12 15:55:29,079 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2000-04-01 - Origem: 2000-04-03
+2024-11-12 15:55:29,079 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2000-07-01 - Origem: 2000-07-03
+2024-11-12 15:55:29,079 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2000-10-01 - Origem: 2000-10-02
+2024-11-12 15:55:29,079 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2001-01-01 - Origem: 2001-01-02
+2024-11-12 15:55:29,079 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2001-04-01 - Origem: 2001-04-02
+2024-11-12 15:55:29,079 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2001-07-01 - Origem: 2001-07-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2002-01-01 - Origem: 2002-01-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2003-01-01 - Origem: 2003-01-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2004-01-01 - Origem: 2004-01-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2005-01-01 - Origem: 2005-01-03
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2005-10-01 - Origem: 2005-10-03
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2006-01-01 - Origem: 2006-01-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2006-04-01 - Origem: 2006-04-03
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2006-07-01 - Origem: 2006-07-03
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2006-10-01 - Origem: 2006-10-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2007-01-01 - Origem: 2007-01-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2007-04-01 - Origem: 2007-04-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2007-07-01 - Origem: 2007-07-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2008-01-01 - Origem: 2008-01-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2009-01-01 - Origem: 2009-01-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2010-01-01 - Origem: 2010-01-04
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2011-01-01 - Origem: 2011-01-03
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2011-10-01 - Origem: 2011-10-03
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2012-01-01 - Origem: 2012-01-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2012-04-01 - Origem: 2012-04-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2012-07-01 - Origem: 2012-07-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2013-01-01 - Origem: 2013-01-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2014-01-01 - Origem: 2014-01-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2015-01-01 - Origem: 2015-01-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2016-01-01 - Origem: 2016-01-04
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2016-10-01 - Origem: 2016-10-03
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2017-01-01 - Origem: 2017-01-02
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2017-04-01 - Origem: 2017-04-03
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2017-07-01 - Origem: 2017-07-03
+2024-11-12 15:55:29,080 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2017-10-01 - Origem: 2017-10-02
+2024-11-12 15:55:29,081 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2018-01-01 - Origem: 2018-01-02
+2024-11-12 15:55:29,081 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2018-04-01 - Origem: 2018-04-02
+2024-11-12 15:55:29,081 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2018-07-01 - Origem: 2018-07-02
+2024-11-12 15:55:29,081 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2019-01-01 - Origem: 2019-01-02
+2024-11-12 15:55:29,081 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2020-01-01 - Origem: 2020-01-02
+2024-11-12 15:55:29,081 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2021-01-01 - Origem: 2021-01-04
+2024-11-12 15:55:29,081 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2022-01-01 - Origem: 2022-01-03
+2024-11-12 15:55:29,081 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2022-10-01 - Origem: 2022-10-03
+2024-11-12 15:55:29,081 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2023-01-01 - Origem: 2023-01-02
+2024-11-12 15:55:29,081 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2023-04-01 - Origem: 2023-04-03
+2024-11-12 15:55:29,081 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2023-07-01 - Origem: 2023-07-03
+2024-11-12 15:55:29,081 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2023-10-01 - Origem: 2023-10-02
+2024-11-12 15:55:29,081 - INFO - BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv - Data alterada: 2024-01-01 - Origem: 2024-01-02
+2024-11-12 15:55:29,081 - INFO - Arquivo processado com sucesso: BCB Saldo diário de depósitos de poupança - SBPE e rural - COD23 - 20241112144810.csv
+2024-11-12 15:55:29,081 - INFO - Processando arquivo: BCB Selic - COD11 - 20241112144802.csv
+2024-11-12 15:55:29,152 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2000-01-01 - Origem: 2000-01-03
+2024-11-12 15:55:29,152 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2000-04-01 - Origem: 2000-04-03
+2024-11-12 15:55:29,152 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2000-07-01 - Origem: 2000-07-03
+2024-11-12 15:55:29,152 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2000-10-01 - Origem: 2000-10-02
+2024-11-12 15:55:29,152 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2001-01-01 - Origem: 2001-01-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2001-04-01 - Origem: 2001-04-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2001-07-01 - Origem: 2001-07-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2002-01-01 - Origem: 2002-01-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2003-01-01 - Origem: 2003-01-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2004-01-01 - Origem: 2004-01-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2005-01-01 - Origem: 2005-01-03
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2005-10-01 - Origem: 2005-10-03
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2006-01-01 - Origem: 2006-01-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2006-04-01 - Origem: 2006-04-03
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2006-07-01 - Origem: 2006-07-03
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2006-10-01 - Origem: 2006-10-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2007-01-01 - Origem: 2007-01-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2007-04-01 - Origem: 2007-04-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2007-07-01 - Origem: 2007-07-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2008-01-01 - Origem: 2008-01-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2009-01-01 - Origem: 2009-01-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2010-01-01 - Origem: 2010-01-04
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2011-01-01 - Origem: 2011-01-03
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2011-10-01 - Origem: 2011-10-03
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2012-01-01 - Origem: 2012-01-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2012-04-01 - Origem: 2012-04-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2012-07-01 - Origem: 2012-07-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2013-01-01 - Origem: 2013-01-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2014-01-01 - Origem: 2014-01-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2015-01-01 - Origem: 2015-01-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2016-01-01 - Origem: 2016-01-04
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2016-10-01 - Origem: 2016-10-03
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2017-01-01 - Origem: 2017-01-02
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2017-04-01 - Origem: 2017-04-03
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2017-07-01 - Origem: 2017-07-03
+2024-11-12 15:55:29,153 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2017-10-01 - Origem: 2017-10-02
+2024-11-12 15:55:29,154 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2018-01-01 - Origem: 2018-01-02
+2024-11-12 15:55:29,154 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2018-04-01 - Origem: 2018-04-02
+2024-11-12 15:55:29,154 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2018-07-01 - Origem: 2018-07-02
+2024-11-12 15:55:29,154 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2019-01-01 - Origem: 2019-01-02
+2024-11-12 15:55:29,154 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2020-01-01 - Origem: 2020-01-02
+2024-11-12 15:55:29,154 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2021-01-01 - Origem: 2021-01-04
+2024-11-12 15:55:29,154 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2022-01-01 - Origem: 2022-01-03
+2024-11-12 15:55:29,154 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2022-10-01 - Origem: 2022-10-03
+2024-11-12 15:55:29,154 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2023-01-01 - Origem: 2023-01-02
+2024-11-12 15:55:29,154 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2023-04-01 - Origem: 2023-04-03
+2024-11-12 15:55:29,154 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2023-07-01 - Origem: 2023-07-03
+2024-11-12 15:55:29,154 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2023-10-01 - Origem: 2023-10-02
+2024-11-12 15:55:29,154 - INFO - BCB Selic - COD11 - 20241112144802.csv - Data alterada: 2024-01-01 - Origem: 2024-01-02
+2024-11-12 15:55:29,154 - INFO - Arquivo processado com sucesso: BCB Selic - COD11 - 20241112144802.csv
+2024-11-12 15:55:29,154 - INFO - Processando arquivo: BCB Spread médio PF - COD20809 - 20241112144803.csv
+2024-11-12 15:55:29,159 - INFO - BCB Spread médio PF - COD20809 - 20241112144803.csv - Data alterada: 2011-01-01 - Origem: 2011-03-01
+2024-11-12 15:55:29,159 - INFO - Arquivo processado com sucesso: BCB Spread médio PF - COD20809 - 20241112144803.csv
+2024-11-12 15:55:29,159 - INFO - Processando arquivo: BCB Taxa de Juros PF - COD11 - 20241112144802.csv
+2024-11-12 15:55:29,229 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2000-01-01 - Origem: 2000-01-03
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2000-04-01 - Origem: 2000-04-03
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2000-07-01 - Origem: 2000-07-03
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2000-10-01 - Origem: 2000-10-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2001-01-01 - Origem: 2001-01-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2001-04-01 - Origem: 2001-04-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2001-07-01 - Origem: 2001-07-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2002-01-01 - Origem: 2002-01-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2003-01-01 - Origem: 2003-01-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2004-01-01 - Origem: 2004-01-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2005-01-01 - Origem: 2005-01-03
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2005-10-01 - Origem: 2005-10-03
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2006-01-01 - Origem: 2006-01-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2006-04-01 - Origem: 2006-04-03
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2006-07-01 - Origem: 2006-07-03
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2006-10-01 - Origem: 2006-10-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2007-01-01 - Origem: 2007-01-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2007-04-01 - Origem: 2007-04-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2007-07-01 - Origem: 2007-07-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2008-01-01 - Origem: 2008-01-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2009-01-01 - Origem: 2009-01-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2010-01-01 - Origem: 2010-01-04
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2011-01-01 - Origem: 2011-01-03
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2011-10-01 - Origem: 2011-10-03
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2012-01-01 - Origem: 2012-01-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2012-04-01 - Origem: 2012-04-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2012-07-01 - Origem: 2012-07-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2013-01-01 - Origem: 2013-01-02
+2024-11-12 15:55:29,230 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2014-01-01 - Origem: 2014-01-02
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2015-01-01 - Origem: 2015-01-02
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2016-01-01 - Origem: 2016-01-04
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2016-10-01 - Origem: 2016-10-03
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2017-01-01 - Origem: 2017-01-02
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2017-04-01 - Origem: 2017-04-03
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2017-07-01 - Origem: 2017-07-03
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2017-10-01 - Origem: 2017-10-02
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2018-01-01 - Origem: 2018-01-02
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2018-04-01 - Origem: 2018-04-02
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2018-07-01 - Origem: 2018-07-02
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2019-01-01 - Origem: 2019-01-02
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2020-01-01 - Origem: 2020-01-02
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2021-01-01 - Origem: 2021-01-04
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2022-01-01 - Origem: 2022-01-03
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2022-10-01 - Origem: 2022-10-03
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2023-01-01 - Origem: 2023-01-02
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2023-04-01 - Origem: 2023-04-03
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2023-07-01 - Origem: 2023-07-03
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2023-10-01 - Origem: 2023-10-02
+2024-11-12 15:55:29,231 - INFO - BCB Taxa de Juros PF - COD11 - 20241112144802.csv - Data alterada: 2024-01-01 - Origem: 2024-01-02
+2024-11-12 15:55:29,231 - INFO - Arquivo processado com sucesso: BCB Taxa de Juros PF - COD11 - 20241112144802.csv
+2024-11-12 15:55:29,231 - INFO - Processando arquivo: BCB Índice de Confiança do Consumidor - COD4393 - 20241112144811.csv
+2024-11-12 15:55:29,237 - INFO - Arquivo processado com sucesso: BCB Índice de Confiança do Consumidor - COD4393 - 20241112144811.csv
+2024-11-12 15:55:29,237 - INFO - Processando arquivo: BCB Índice nacional de preços ao consumidor-amplo (IPCA) - COD433 - 20241112144811.csv
+2024-11-12 15:55:29,242 - INFO - Arquivo processado com sucesso: BCB Índice nacional de preços ao consumidor-amplo (IPCA) - COD433 - 20241112144811.csv
+2024-11-12 15:55:29,242 - INFO - Processando arquivo: IBGE PIB Desazonalizado Encadeado 1995  - T6613 - V9319 - 20241112155514.csv
+2024-11-12 15:55:29,246 - INFO - Arquivo processado com sucesso: IBGE PIB Desazonalizado Encadeado 1995  - T6613 - V9319 - 20241112155514.csv
+2024-11-12 15:55:29,247 - INFO - Processando arquivo: IBGE Índice de Desemprego - T4094 - V4098 - 20241112144817.csv
+2024-11-12 15:55:29,251 - INFO - Arquivo processado com sucesso: IBGE Índice de Desemprego - T4094 - V4098 - 20241112144817.csv
+2024-11-12 15:55:29,251 - INFO - Processamento concluído.
