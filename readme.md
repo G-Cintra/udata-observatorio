@@ -38,9 +38,12 @@ Para executar este projeto, você precisará de:
 
 ## Estrutura do Repositório
 
-- **`main.py`**: Arquivo principal que executa a análise.
-- **`data/`**: Diretório onde os arquivos de dados são armazenados.
+- **`notebook.ipynb`**: Arquivo principal que executa a análise.
+- **`dados/`**: Diretório onde os arquivos de dados são armazenados.
 - **`imagens/`**: Diretório onde os gráficos gerados serão salvos.
+- **`merged_data.csv`**: Dados trimestrais para todas as sérias abordadas no período de 2012 a 2024.
+- **`dados_alterados.log`**: Registro dos dados que foram alterados. Como os indicadores possuem frequências de amostragem distintas, foi necessário harmonizar os dados para padronizar os períodos analisados. Para isso, nas séries em que o dado referente ao primeiro dia do trimestre não estava disponível, foi utilizado o valor mais próximo dentro do mesmo trimestre. Essa abordagem permite uma análise consistente das interrelações entre os indicadores ao longo do tempo.
+- **`dados/processados/`**: Contém os dados os dados originais após as alterações registradas no arquivo `dados_alterados.log`.
 - **`Pipfile` e `Pipfile.lock`**: Arquivos de configuração do Pipenv para gerenciar dependências.
 
 ## Dependências
